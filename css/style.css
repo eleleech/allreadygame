@@ -1,0 +1,104 @@
+
+body{
+    background: url(wallpaper.jpg);
+    min-height: 100vh;
+    width: 100%;
+
+    background-size: cover;
+    background-repeat: repeat;
+    justify-content: center;
+    display: flex;
+    height: 220vh;
+   
+
+    
+}
+.heading{
+    text-align: center;
+}
+
+main{
+    margin-left: 15pt;
+    margin-right: 15pt;
+    color:blanchedalmond
+    
+}
+
+.font{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.part1{
+    padding: 15px 15px;
+    border-radius: 25px;
+    margin: 1px;
+    width: 450px;
+    height: 750px;
+    display: inline-block;
+    text-align: center;
+    
+    background: rgba(0, 0, 0, 0.027);
+    background-color: rgb(245, 145, 73);
+   
+}
+
+.part2{
+    padding: 15px 15px;
+    border-radius: 25px;
+    display: inline-block;  
+    text-align: center;
+    width: 450px;
+    height: 750px;
+    
+    margin: 1px;
+
+    background: rgba(0, 0, 0, 0.027);
+    background-color: rgb(245, 145, 73);
+    
+   
+}
+
+.part3{
+    padding: 15px 15px;
+    border-radius: 25px;
+    display: inline-block;
+    text-align: center;
+    width: 450px;
+    height: 750px;
+    margin: 1px;
+
+    background: rgba(0, 0, 0, 0.027);
+    background-color: rgb(245, 145, 73);
+    
+}
+
+.respons_card{
+    padding: 15px 15px;
+    border-radius: 25px;
+    display: inline-block;
+    margin: 1px;
+
+    background: rgba(0, 0, 0, 0.027);
+    backdrop-filter:blur(16px);
+    max-width: 450px;
+    min-height: 750px;
+}
+
+.parts_cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    font-size: large; 
+}
+
+.respons_cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    font-size: large;
+}
+
+

@@ -1,0 +1,79 @@
+
+@media only screen and (max-width: 1200px) {
+    .part1{
+        width: 350px;
+        text-align: center;
+    }
+
+    .part2{
+        width: 350px;
+        text-align: center;
+    }
+
+    .part3{
+        width: 350px;
+        text-align: center;
+    }
+
+    .respons_card{
+        width: 350px;
+        text-align: center;
+    }
+  
+}
+
+@media only screen and (max-width: 800px) {
+    .part1{
+        width: 250px;
+        text-align: center;
+        
+       
+    }
+
+    .part2{
+        width: 250px;
+        text-align: center;
+       
+    }
+
+    .part3{
+        width: 250px;
+        text-align: center;
+        
+    }
+
+    .respons_card{
+        width: 250px;
+        text-align: center;
+        
+    }
+    
+  
+}
+
+@media only screen and (max-width: 519px) {
+    .part1{
+        width: 150px;
+        text-align: center;
+       
+    }
+
+    .part2{
+        width: 150px;
+        text-align: center;
+       
+    }
+
+    .part3{
+        width: 150px;
+        text-align: center;
+        
+    }
+
+    .respons_card{
+        width: 150px;
+        text-align: center;
+        
+    }
+
+}
