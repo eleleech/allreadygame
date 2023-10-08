@@ -34,7 +34,7 @@ main{
     margin: 1px;
     width: 450px;
     height: 750px;
-    display: inline-block;
+    
     text-align: center;
     
     background: rgba(0, 0, 0, 0.027);
@@ -45,7 +45,7 @@ main{
 .part2{
     padding: 15px 15px;
     border-radius: 25px;
-    display: inline-block;  
+ 
     text-align: center;
     width: 450px;
     height: 750px;
@@ -61,7 +61,7 @@ main{
 .part3{
     padding: 15px 15px;
     border-radius: 25px;
-    display: inline-block;
+   
     text-align: center;
     width: 450px;
     height: 750px;
@@ -72,10 +72,16 @@ main{
     
 }
 
+.image{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
 .respons_card{
     padding: 15px 15px;
     border-radius: 25px;
-    display: inline-block;
+    
     margin: 1px;
 
     background: rgba(0, 0, 0, 0.027);
