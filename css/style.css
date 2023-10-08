@@ -9,7 +9,7 @@ body{
     background-attachment: fixed;
     justify-content: center;
     display: flex;
-    height: 220vh;
+    height: 200vh;
    
 
     
@@ -35,8 +35,6 @@ main{
     margin: 1px;
     max-width: 450px;
     min-height: 750px;
-    
-
     text-align: center;
     
     background: rgba(0, 0, 0, 0.027);
@@ -47,13 +45,11 @@ main{
 .part2{
     padding: 15px 15px;
     border-radius: 25px;
-    
-    text-align: center;
+    margin: 1px;
     max-width: 450px;
     min-height: 750px;
+    text-align: center;
     
-    margin: 1px;
-
     background: rgba(0, 0, 0, 0.027);
     background-color: rgb(245, 145, 73);
     
@@ -63,12 +59,11 @@ main{
 .part3{
     padding: 15px 15px;
     border-radius: 25px;
-    max-width: 50%;
-    text-align: center;
+    margin: 1px;
     max-width: 450px;
     min-height: 750px;
-    margin: 1px;
-
+    text-align: center;
+    
     background: rgba(0, 0, 0, 0.027);
     background-color: rgb(245, 145, 73);
     
