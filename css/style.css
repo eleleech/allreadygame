@@ -6,6 +6,8 @@ body{
 
     background-size: cover;
     background-repeat: repeat;
+    background-attachment: fixed;
+
     justify-content: center;
     display: flex;
     height: 220vh;
