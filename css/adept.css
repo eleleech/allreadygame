@@ -14,6 +14,8 @@
 
     .respons_card{
         padding: 50px;
+        background: rgba(0, 0, 0, 0.027);
+        backdrop-filter:blur(16px);
     }
   
 }
